@@ -29,7 +29,7 @@ public class Boj9506 {
             }
 
             if(divisorSum != num){
-                System.out.println(num + " is NOT perfect");
+                System.out.println(num + " is NOT perfect.");
             } 
             else {
                 System.out.print(num + " = " + divisors.get(0));
